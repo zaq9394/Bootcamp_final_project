@@ -38,6 +38,7 @@ This is a bootcamp final project. In this case we will use NLP(natural language 
 ## Usage
 
 If you want to create your own NLP classified model. Then you need to open the python-file and run the NLP.ipynb. After the NLP part you will get a new model, but it will take you long time. Instead of creating your own model you can just use the model i built. You just need to load the pickle file and you will get the model.
+
 To the web scrapping part you can directly run the get_review function. You can enter any product links from Amazon, then you will get all reviews of this product.For example https://www.amazon.com/Apple-iPhone-64GB-Space-Gray/product-reviews/B08BHTPV2T/ref=cm_cr_getr_d_paging_btm_next_2?ie=UTF8&reviewerType=all_reviews&pageNumber=1
 
 ## Performance Overview
